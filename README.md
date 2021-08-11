@@ -1,24 +1,25 @@
 # vuese
 
+## Adding vuese/cli globally
+```
+yarn global add @vuese/cli
+```
+
 ## Project setup
 ```
-npm install
+yarn
+```
+
+## Generating documentation website with .md files for components
+```
+vuese gen
 ```
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+vuese serve --open
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
