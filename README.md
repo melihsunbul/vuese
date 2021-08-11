@@ -22,4 +22,4 @@ vuese serve --open
 
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://vuese.org/cli/#quick-start).
